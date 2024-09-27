@@ -1,0 +1,14 @@
+D:\project\c#_study\study\task9\bin\Debug\net8.0\task9.exe
+D:\project\c#_study\study\task9\bin\Debug\net8.0\task9.deps.json
+D:\project\c#_study\study\task9\bin\Debug\net8.0\task9.runtimeconfig.json
+D:\project\c#_study\study\task9\bin\Debug\net8.0\task9.dll
+D:\project\c#_study\study\task9\bin\Debug\net8.0\task9.pdb
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.AssemblyInfoInputs.cache
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.AssemblyInfo.cs
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.csproj.CoreCompileInputs.cache
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.dll
+D:\project\c#_study\study\task9\obj\Debug\net8.0\refint\task9.dll
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.pdb
+D:\project\c#_study\study\task9\obj\Debug\net8.0\task9.genruntimeconfig.cache
+D:\project\c#_study\study\task9\obj\Debug\net8.0\ref\task9.dll
