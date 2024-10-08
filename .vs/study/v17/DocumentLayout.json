@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\project\\c#_study\\study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1515FCD-3F7C-4991-B544-F7B55C9A5CD4}|task27\\task27.csproj|d:\\project\\c#_study\\study\\task27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1515FCD-3F7C-4991-B544-F7B55C9A5CD4}|task27\\task27.csproj|solutionrelative:task27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1515FCD-3F7C-4991-B544-F7B55C9A5CD4}|task27\\task27.csproj|d:\\project\\c#_study\\study\\task27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1515FCD-3F7C-4991-B544-F7B55C9A5CD4}|task27\\task27.csproj|solutionrelative:task27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D6D6ED-FB2E-436C-B676-5F1AC8D6E0EA}|task15\\task15.csproj|d:\\project\\c#_study\\study\\task15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D6D6ED-FB2E-436C-B676-5F1AC8D6E0EA}|task15\\task15.csproj|solutionrelative:task15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B511F52-5F54-42B0-97E3-A7A20709C7A1}|task14\\task14.csproj|d:\\project\\c#_study\\study\\task14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B511F52-5F54-42B0-97E3-A7A20709C7A1}|task14\\task14.csproj|solutionrelative:task14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,15 +30,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\project\\c#_study\\study\\task27\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "task27\\MainWindow.xaml",
+              "ToolTip": "D:\\project\\c#_study\\study\\task27\\MainWindow.xaml",
+              "RelativeToolTip": "task27\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T12:06:39.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\project\\c#_study\\study\\task27\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "task27\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\project\\c#_study\\study\\task27\\MainWindow.xaml.cs",
+              "RelativeToolTip": "task27\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:06:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\c#_study\\study\\task15\\Program.cs",
+              "RelativeDocumentMoniker": "task15\\Program.cs",
+              "ToolTip": "D:\\project\\c#_study\\study\\task15\\Program.cs",
+              "RelativeToolTip": "task15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:22:36.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\project\\c#_study\\study\\task10\\Program.cs",
               "RelativeDocumentMoniker": "task10\\Program.cs",
@@ -34,21 +86,19 @@
               "RelativeToolTip": "task10\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:02:56.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T03:02:56.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\project\\c#_study\\study\\task14\\Program.cs",
               "RelativeDocumentMoniker": "task14\\Program.cs",
               "ToolTip": "D:\\project\\c#_study\\study\\task14\\Program.cs",
               "RelativeToolTip": "task14\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwDYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:01:22.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T03:01:22.08Z"
             }
           ]
         }

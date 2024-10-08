@@ -1,0 +1,15 @@
+D:\project\c#_study\study\task15\bin\Debug\net8.0\task15.exe
+D:\project\c#_study\study\task15\bin\Debug\net8.0\task15.deps.json
+D:\project\c#_study\study\task15\bin\Debug\net8.0\task15.runtimeconfig.json
+D:\project\c#_study\study\task15\bin\Debug\net8.0\task15.dll
+D:\project\c#_study\study\task15\bin\Debug\net8.0\task15.pdb
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.AssemblyInfoInputs.cache
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.AssemblyInfo.cs
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.csproj.CoreCompileInputs.cache
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.sourcelink.json
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.dll
+D:\project\c#_study\study\task15\obj\Debug\net8.0\refint\task15.dll
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.pdb
+D:\project\c#_study\study\task15\obj\Debug\net8.0\task15.genruntimeconfig.cache
+D:\project\c#_study\study\task15\obj\Debug\net8.0\ref\task15.dll
