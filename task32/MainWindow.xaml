@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="200" Width="300">
+    <StackPanel>
+        <CheckBox x:Name="checkBox1" Content="CheckBox 1" Margin="5"/>
+        <CheckBox x:Name="checkBox2" Content="CheckBox 2" Margin="5"/>
+        <CheckBox x:Name="checkBox3" Content="CheckBox 3" Margin="5"/>
+        <TextBox x:Name="textBoxContent" HorizontalAlignment="Stretch" Margin="5"
+                 TextChanged="TextBox_TextChanged"/>
+    </StackPanel>
+</Window>
