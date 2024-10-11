@@ -1,0 +1,15 @@
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.AssemblyInfoInputs.cache
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.AssemblyInfo.cs
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.csproj.CoreCompileInputs.cache
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.sourcelink.json
+D:\project\c#_study\study\task23\bin\Debug\net8.0\task23.exe
+D:\project\c#_study\study\task23\bin\Debug\net8.0\task23.deps.json
+D:\project\c#_study\study\task23\bin\Debug\net8.0\task23.runtimeconfig.json
+D:\project\c#_study\study\task23\bin\Debug\net8.0\task23.dll
+D:\project\c#_study\study\task23\bin\Debug\net8.0\task23.pdb
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.dll
+D:\project\c#_study\study\task23\obj\Debug\net8.0\refint\task23.dll
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.pdb
+D:\project\c#_study\study\task23\obj\Debug\net8.0\task23.genruntimeconfig.cache
+D:\project\c#_study\study\task23\obj\Debug\net8.0\ref\task23.dll
