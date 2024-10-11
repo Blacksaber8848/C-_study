@@ -1,0 +1,15 @@
+D:\project\c#_study\study\task22\bin\Debug\net8.0\task22.exe
+D:\project\c#_study\study\task22\bin\Debug\net8.0\task22.deps.json
+D:\project\c#_study\study\task22\bin\Debug\net8.0\task22.runtimeconfig.json
+D:\project\c#_study\study\task22\bin\Debug\net8.0\task22.dll
+D:\project\c#_study\study\task22\bin\Debug\net8.0\task22.pdb
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.AssemblyInfoInputs.cache
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.AssemblyInfo.cs
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.csproj.CoreCompileInputs.cache
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.sourcelink.json
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.dll
+D:\project\c#_study\study\task22\obj\Debug\net8.0\refint\task22.dll
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.pdb
+D:\project\c#_study\study\task22\obj\Debug\net8.0\task22.genruntimeconfig.cache
+D:\project\c#_study\study\task22\obj\Debug\net8.0\ref\task22.dll
