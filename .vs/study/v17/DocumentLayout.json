@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\project\\c#_study\\study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3ED6036-0526-4048-92F7-DCA5E9001D3B}|task36\\task36.csproj|d:\\project\\c#_study\\study\\task36\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ED6036-0526-4048-92F7-DCA5E9001D3B}|task36\\task36.csproj|solutionrelative:task36\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ED6036-0526-4048-92F7-DCA5E9001D3B}|task36\\task36.csproj|d:\\project\\c#_study\\study\\task36\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3ED6036-0526-4048-92F7-DCA5E9001D3B}|task36\\task36.csproj|solutionrelative:task36\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11DC74AF-A82B-4DE6-9799-DDA5D27938B9}|task35\\task35.csproj|d:\\project\\c#_study\\study\\task35\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11DC74AF-A82B-4DE6-9799-DDA5D27938B9}|task35\\task35.csproj|solutionrelative:task35\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11DC74AF-A82B-4DE6-9799-DDA5D27938B9}|task35\\task35.csproj|d:\\project\\c#_study\\study\\task35\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{11DC74AF-A82B-4DE6-9799-DDA5D27938B9}|task35\\task35.csproj|solutionrelative:task35\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1515FCD-3F7C-4991-B544-F7B55C9A5CD4}|task27\\task27.csproj|d:\\project\\c#_study\\study\\task27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1515FCD-3F7C-4991-B544-F7B55C9A5CD4}|task27\\task27.csproj|solutionrelative:task27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42565C0E-53CE-4848-B911-BB192DD6DF44}|task34\\task34.csproj|d:\\project\\c#_study\\study\\task34\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{42565C0E-53CE-4848-B911-BB192DD6DF44}|task34\\task34.csproj|solutionrelative:task34\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42565C0E-53CE-4848-B911-BB192DD6DF44}|task34\\task34.csproj|d:\\project\\c#_study\\study\\task34\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42565C0E-53CE-4848-B911-BB192DD6DF44}|task34\\task34.csproj|solutionrelative:task34\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -39,6 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\project\\c#_study\\study\\task36\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "task36\\MainWindow.xaml",
+              "ToolTip": "D:\\project\\c#_study\\study\\task36\\MainWindow.xaml",
+              "RelativeToolTip": "task36\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T02:37:43.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\project\\c#_study\\study\\task36\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "task36\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\project\\c#_study\\study\\task36\\MainWindow.xaml.cs",
+              "RelativeToolTip": "task36\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:37:43.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\project\\c#_study\\study\\task35\\MainWindow.xaml",
               "RelativeDocumentMoniker": "task35\\MainWindow.xaml",
@@ -50,53 +75,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\project\\c#_study\\study\\task35\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "task35\\MainWindow.xaml.cs",
               "ToolTip": "D:\\project\\c#_study\\study\\task35\\MainWindow.xaml.cs",
               "RelativeToolTip": "task35\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAgwCQAAAAoAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwC8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T00:40:09.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\project\\c#_study\\study\\task27\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "task27\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\project\\c#_study\\study\\task27\\MainWindow.xaml.cs",
-              "RelativeToolTip": "task27\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:00:52.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\project\\c#_study\\study\\task34\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "task34\\MainWindow.xaml",
-              "ToolTip": "D:\\project\\c#_study\\study\\task34\\MainWindow.xaml",
-              "RelativeToolTip": "task34\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T08:21:53.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\project\\c#_study\\study\\task34\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "task34\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\project\\c#_study\\study\\task34\\MainWindow.xaml.cs",
-              "RelativeToolTip": "task34\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:21:53.686Z",
               "EditorCaption": ""
             }
           ]
