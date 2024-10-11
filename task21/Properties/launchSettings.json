@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task21": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
