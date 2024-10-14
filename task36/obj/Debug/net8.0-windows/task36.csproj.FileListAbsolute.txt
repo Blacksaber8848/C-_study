@@ -22,3 +22,13 @@ D:\project\c#_study\study\task36\obj\Debug\net8.0-windows\ref\task36.dll
 D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 D:\project\c#_study\study\task36\obj\Debug\net8.0-windows\task36.csproj.AssemblyReference.cache
 D:\project\c#_study\study\task36\obj\Debug\net8.0-windows\task36.csproj.Up2Date
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Prism.Container.Abstractions.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Prism.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Prism.Events.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Prism.Container.Unity.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Prism.Unity.Wpf.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Prism.Wpf.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Unity.Abstractions.dll
+D:\project\c#_study\study\task36\bin\Debug\net8.0-windows\Unity.Container.dll

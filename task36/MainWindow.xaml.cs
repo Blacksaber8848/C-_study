@@ -20,7 +20,7 @@ namespace task36
             //    new Student { Id = 2, Name = "Bob", Faculties = "Mathematics" },
             //    new Student { Id = 3, Name = "Charlie", Faculties = "Physics" }
             //};
-            studentsListBox.ItemsSource = Students;
+            //studentsListBox.ItemsSource = Students;
         }
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
@@ -29,8 +29,18 @@ namespace task36
             if (!string.IsNullOrEmpty(serializedStudents))
             {
                 Students = JsonConvert.DeserializeObject<ObservableCollection<Student>>(serializedStudents);
-                studentsListBox.ItemsSource = Students;
+                
             }
+            else if (string.IsNullOrEmpty(serializedStudents))
+            {
+                Students = new ObservableCollection<Student>
+                {
+                    new Student { Id = 1, Name = "Alice", Faculties = "Computer Science" },
+                    new Student { Id = 2, Name = "Bob", Faculties = "Mathematics" },
+                    new Student { Id = 3, Name = "Charlie", Faculties = "Physics" }
+                };
+            }
+            studentsListBox.ItemsSource = Students;
         }
 
         private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
