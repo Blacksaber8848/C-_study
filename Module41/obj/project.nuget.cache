@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDvtWWX1wEFjxV+yH6IqV18+6aL7S6zTOUsHbdo4CVwHeAhae5Hik2NCrDSFEC+ZIktEvHh7BIBkcu0QO7pV/A==",
+  "success": true,
+  "projectFilePath": "D:\\project\\c#_study\\study\\Module41\\Module41.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

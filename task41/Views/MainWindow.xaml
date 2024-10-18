@@ -1,0 +1,28 @@
+﻿<Window x:Class="task41.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Title="{Binding Title}" Height="350" Width="525">
+
+    <Grid>
+       
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+           
+        </Grid.RowDefinitions>
+        <TabControl prism:RegionManager.RegionName="MainTabRegion" Grid.Row="0">
+            <TabItem Header="View 1">
+                <ContentControl prism:RegionManager.RegionName="ViewRegion" />
+            </TabItem>
+            <!--<TabItem Header="View 2">
+                <ContentControl prism:RegionManager.RegionName="ViewBRegion" />
+            </TabItem>-->
+        </TabControl>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="5" Grid.Row="1">
+            <Button Command="{Binding NavigateCommand}" CommandParameter="ViewA" Margin="5">Navigate to View A</Button>
+            <Button Command="{Binding NavigateCommand}" CommandParameter="ViewB" Margin="5">Navigate to View B</Button>
+        </StackPanel>
+    </Grid>
+</Window>
