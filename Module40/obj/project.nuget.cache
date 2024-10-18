@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSQjXk0t3BK19hB5Xhn3fBETZV3Vl7QzJAHlto2Gp9L3a18vaLxaKCbNZ5Kq3Xy3sEsdjI3jf3i/r682/c/a6g==",
+  "success": true,
+  "projectFilePath": "D:\\project\\c#_study\\study\\Module40\\Module40.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\23177\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
